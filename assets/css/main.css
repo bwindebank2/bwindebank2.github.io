@@ -83,8 +83,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
-	}
+		background: #2C2F33;
+}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
